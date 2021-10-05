@@ -19,4 +19,28 @@ display: block;
 #img-div{
     background-color: white;
 }
-#title,#subtitle , #img-caption{ text-align: center}
+#title,#subtitle , #img-caption ,#tribute-info, #link{ text-align: center}
+
+ul {
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul > li {
+    margin: 20px;
+}
+
+#quote {
+    padding: 10px;
+    
+    text-align: left;
+    margin: 0 auto;
+    width: 50%;
+    font-style: italic;
+}
+
+#reff {
+    width: 50%;
+    margin: 0 auto;
+    font-style: italic;
+}
